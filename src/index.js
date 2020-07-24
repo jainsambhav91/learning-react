@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <div>
       <App />
-      <Layout />
+      {/* <Layout /> */}
     </div>
   </React.StrictMode>,
   document.getElementById("root")
